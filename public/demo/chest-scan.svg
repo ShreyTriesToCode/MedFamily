@@ -1,0 +1,25 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="40" fill="#13201C"/>
+  <rect x="72" y="72" width="1056" height="756" rx="34" fill="#1A2723" stroke="#43554D" stroke-width="4"/>
+  <text x="120" y="162" fill="#F6F1E6" font-size="56" font-family="Arial, sans-serif" font-weight="700">Mobility Follow-up Snapshot</text>
+  <text x="120" y="214" fill="#C5CABB" font-size="28" font-family="Arial, sans-serif">Patient: Sushma Sharma · Arthritis monitoring and home exercise review</text>
+
+  <rect x="120" y="282" width="420" height="420" rx="36" fill="#24312C"/>
+  <circle cx="330" cy="492" r="122" stroke="#B8C8BD" stroke-width="14"/>
+  <path d="M330 374V610" stroke="#E5ECE7" stroke-width="18" stroke-linecap="round"/>
+  <path d="M214 492H446" stroke="#E5ECE7" stroke-width="18" stroke-linecap="round"/>
+
+  <rect x="588" y="282" width="492" height="420" rx="36" fill="#24312C"/>
+  <g font-family="Arial, sans-serif" fill="#F6F1E6">
+    <text x="632" y="364" font-size="34" font-weight="700">Clinical Notes</text>
+    <text x="632" y="432" font-size="26">Pain severity: Mild to moderate in the morning</text>
+    <text x="632" y="490" font-size="26">Mobility: Improved versus previous visit</text>
+    <text x="632" y="548" font-size="26">Recommendation: Continue support brace for longer walks</text>
+    <text x="632" y="606" font-size="26">Follow-up: Recheck joint stiffness in 2 weeks</text>
+  </g>
+
+  <rect x="120" y="744" width="960" height="52" rx="18" fill="#30403A"/>
+  <text x="152" y="778" fill="#D5DFD8" font-size="24" font-family="Arial, sans-serif">
+    Demo attachment for MedFamily patient-record preview and timeline history.
+  </text>
+</svg>

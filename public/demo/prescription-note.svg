@@ -1,0 +1,29 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="40" fill="#F7F3EB"/>
+  <rect x="78" y="78" width="1044" height="744" rx="34" fill="#FFFDF8" stroke="#D9CDBD" stroke-width="4"/>
+  <text x="118" y="166" fill="#20322B" font-size="58" font-family="Arial, sans-serif" font-weight="700">Prescription Summary</text>
+  <text x="118" y="220" fill="#54655B" font-size="28" font-family="Arial, sans-serif">MedFamily demo attachment for prescription preview and medicine extraction workflow</text>
+
+  <line x1="118" y1="290" x2="1082" y2="290" stroke="#D9CDBD" stroke-width="4"/>
+  <g font-family="Arial, sans-serif">
+    <text x="118" y="352" fill="#20322B" font-size="34" font-weight="700">Patient</text>
+    <text x="348" y="352" fill="#20322B" font-size="34">Rahul Sharma / Sushma Sharma</text>
+
+    <text x="118" y="424" fill="#20322B" font-size="34" font-weight="700">Doctor</text>
+    <text x="348" y="424" fill="#20322B" font-size="34">Dr. Arjun Mehta</text>
+
+    <text x="118" y="496" fill="#20322B" font-size="34" font-weight="700">Medicines</text>
+    <text x="348" y="496" fill="#20322B" font-size="34">Metformin 500 mg, Amlodipine 5 mg, Calcium 500 mg</text>
+
+    <text x="118" y="568" fill="#20322B" font-size="34" font-weight="700">Frequency</text>
+    <text x="348" y="568" fill="#20322B" font-size="34">Morning and evening doses with follow-up reminders</text>
+
+    <text x="118" y="640" fill="#20322B" font-size="34" font-weight="700">Notes</text>
+    <text x="348" y="640" fill="#20322B" font-size="34">Manual corrections can be made after OCR assist or digitisation.</text>
+  </g>
+
+  <rect x="118" y="714" width="964" height="64" rx="20" fill="#EEF6F0"/>
+  <text x="150" y="756" fill="#355640" font-size="24" font-family="Arial, sans-serif">
+    Demo only: Use this static prescription to preview uploads, ordering, and reminder generation.
+  </text>
+</svg>

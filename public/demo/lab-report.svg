@@ -1,0 +1,38 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="40" fill="#F7F3EB"/>
+  <rect x="72" y="72" width="1056" height="756" rx="32" fill="#FFFDF8" stroke="#D9CDBD" stroke-width="4"/>
+  <rect x="120" y="120" width="180" height="180" rx="32" fill="#EEF6F0"/>
+  <path d="M178 212H242" stroke="#355640" stroke-width="22" stroke-linecap="round"/>
+  <path d="M210 180V244" stroke="#355640" stroke-width="22" stroke-linecap="round"/>
+  <text x="340" y="176" fill="#20322B" font-size="56" font-family="Arial, sans-serif" font-weight="700">MedFamily Lab Report</text>
+  <text x="340" y="226" fill="#54655B" font-size="28" font-family="Arial, sans-serif">Patient: Rahul Sharma · CBC + HbA1c Review</text>
+  <text x="340" y="268" fill="#54655B" font-size="28" font-family="Arial, sans-serif">Collected: 06 Mar 2026 · Review doctor: Dr. Arjun Mehta</text>
+
+  <rect x="120" y="352" width="960" height="84" rx="24" fill="#EFE6DA"/>
+  <text x="160" y="406" fill="#20322B" font-size="30" font-family="Arial, sans-serif" font-weight="700">Test</text>
+  <text x="520" y="406" fill="#20322B" font-size="30" font-family="Arial, sans-serif" font-weight="700">Result</text>
+  <text x="760" y="406" fill="#20322B" font-size="30" font-family="Arial, sans-serif" font-weight="700">Range</text>
+  <text x="940" y="406" fill="#20322B" font-size="30" font-family="Arial, sans-serif" font-weight="700">Flag</text>
+
+  <g font-family="Arial, sans-serif" font-size="28" fill="#20322B">
+    <text x="160" y="500">HbA1c</text>
+    <text x="520" y="500">7.1%</text>
+    <text x="760" y="500">4.5 - 6.4%</text>
+    <text x="950" y="500">High</text>
+
+    <text x="160" y="590">Fasting Glucose</text>
+    <text x="520" y="590">132 mg/dL</text>
+    <text x="760" y="590">70 - 100 mg/dL</text>
+    <text x="950" y="590">High</text>
+
+    <text x="160" y="680">Hemoglobin</text>
+    <text x="520" y="680">14.3 g/dL</text>
+    <text x="760" y="680">13 - 17 g/dL</text>
+    <text x="950" y="680">Normal</text>
+  </g>
+
+  <rect x="120" y="728" width="960" height="52" rx="18" fill="#EEF6F0"/>
+  <text x="150" y="762" fill="#355640" font-size="24" font-family="Arial, sans-serif">
+    Summary: Continue medication adherence and review diet before the next consultation.
+  </text>
+</svg>
