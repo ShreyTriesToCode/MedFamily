@@ -151,11 +151,6 @@ These demo accounts are seeded by `supabase/database.sql`:
 
 The current build uses a demo-safe database-backed login flow instead of live Supabase Auth and OTP. The schema and app structure are still organized so stronger production authentication can be reintroduced later.
 
-## GitHub-Ready Notes
-
-- Do not upload `.env`, `node_modules`, `dist`, or local editor/cache files
-- `.env.example` is included so anyone cloning the repo knows which variables to create
-- Keep `supabase/database.sql` in the repository because it is required to recreate the project
 
 ## Docs
 
