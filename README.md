@@ -157,3 +157,6 @@ The current build uses a demo-safe database-backed login flow instead of live Su
 - [docs/FEATURE_MATRIX.md](./docs/FEATURE_MATRIX.md)
 - [docs/PRD.md](./docs/PRD.md)
 - [SUPABASE_SETUP.md](./SUPABASE_SETUP.md)
+
+## Contributors
+@SugamB1234
