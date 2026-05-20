@@ -1,0 +1,40 @@
+{
+  "title": "MedFamily",
+  "slug": "medfamily",
+  "category": "Healthcare",
+  "featured": true,
+  "status": "Active",
+  "difficulty": "Major Project",
+  "role": "Full Stack Developer",
+  "shortDescription": "A mobile-first healthcare PWA for family medical records, prescriptions, reminders, appointments, and medicine orders.",
+  "longDescription": "MedFamily is a mobile-first healthcare management Progressive Web App built as an SEPM project. It helps patients, families, caretakers, doctors, hospitals, and chemists manage records, prescriptions, reminders, appointments, medicine ordering, controlled access, emergency summaries, and notifications in one place.",
+  "techStack": [
+    "Vite",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Supabase",
+    "React Router",
+    "React Hook Form",
+    "Lucide React",
+    "date-fns",
+    "Web Notifications API"
+  ],
+  "demoUrl": "",
+  "imageUrl": "",
+  "priority": 1,
+  "tags": [
+    "healthcare",
+    "pwa",
+    "supabase",
+    "react",
+    "medical-records",
+    "prescriptions",
+    "medicine-reminders"
+  ],
+  "startedAt": "2026-03",
+  "completedAt": "",
+  "screenshots": [],
+  "architectureImage": "",
+  "caseStudyPdf": ""
+}
